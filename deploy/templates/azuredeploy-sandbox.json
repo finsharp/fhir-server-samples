@@ -183,13 +183,19 @@
                 "Encounter",
                 "Practitioner",
                 "MedicationRequest",
-                "Claims",
+                "Claim",
                 "MedicationAdministration",
                 "Immunization",
-                "Practitioner",
                 "Organization",
                 "Condition",
-                "ExplanationOfBenefit"
+                "ExplanationOfBenefit",
+                "Allergy",
+                "ImagingStudy",
+                "Dispense",
+                "Administration",
+                "Invoice",
+                "Coverage",
+                "Contract" 
             ],
             "metadata": {
                 "description": "List of Resources to export"
